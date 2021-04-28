@@ -15,14 +15,14 @@ from datetime import datetime as dt
 # Market ID goes here. This can be found by going to the token's page on
 # CoinGecko ex. --> https://www.coingecko.com/en/coins/<id>.
 ################################################################################
-MARKET_ID = 'matic-network'
+MARKET_ID = 'INSERT MARKET ID FROM https://www.coingecko.com/en/coins/{MARKET ID} here for your specific coin'
 ################################################################################
 
 ################################################################################
 # Your bot's token goes here. This can be found on the Discord developers
 # portal.
 ################################################################################
-BOT_TOKEN = 'ODM2Njg4MzU0Mzk3Mzg4ODQw.YIhowA.P45F572LPo9nCdUQ-BoniwU-C38'
+BOT_TOKEN = 'INSERT BOT TOKEN HERE'
 ################################################################################
 
 print('\n---------- V² DISCORD x COINGECKO BOT ----------\n')
